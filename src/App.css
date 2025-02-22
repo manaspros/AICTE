@@ -1,0 +1,14 @@
+#root {
+  width: 100%;
+  background-color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.section-padding {
+  padding: 60px 0;
+}
