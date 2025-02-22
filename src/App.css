@@ -9,6 +9,12 @@ body {
   background-color: white;
 }
 
+/* Prevent horizontal scroll */
+html,
+body {
+  overflow-x: hidden;
+}
+
 .section-padding {
   padding: 60px 0;
 }
